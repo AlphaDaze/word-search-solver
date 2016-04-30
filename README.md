@@ -1,6 +1,6 @@
-# word-search-solver     ![alt tag](https://www.iconfinder.com/icons/728933/download/png/32)
+# word-search-solver     ![alt tag](https://github.com/ChajusSaib/word-search-solver/blob/master/images/icon.png?raw=true)
 WordSearchSolver lets you feed it an image of a word search and finds words you wish to find!
-![alt tag](http://i.imgur.com/nlDpEP4.png)
+![alt tag](https://github.com/ChajusSaib/word-search-solver/blob/master/images/snapshot1.png?raw=true)
 
 Copyright (c) 2016 ChajusSaib
 
