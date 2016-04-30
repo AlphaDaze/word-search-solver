@@ -9,6 +9,7 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent)
     createActions();
     createMenus();
     setupUi();
+    setWindowIcon(QIcon(":icon.ico"));
 }
 
 void MainWindow::newFile()

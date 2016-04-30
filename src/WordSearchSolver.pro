@@ -15,3 +15,8 @@ HEADERS += mainwindow.h \
 
 SOURCES += main.cpp mainwindow.cpp \
     wordsearch/wordsearch.cpp
+
+RESOURCES += \
+    wordsearch.qrc
+
+win32:RC_ICONS += icons/appIcon512x512.ico
