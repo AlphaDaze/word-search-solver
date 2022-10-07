@@ -2,7 +2,7 @@
 ## New Github [AlphaDaze](https://github.com/AlphaDaze) - Old [ChajusSaib](https://github.com/Chajus-Saib)
 ### (Added 2022. Rest of the project is from 2016)
 
-> In 2016, I got a bit tired with having to solve word searches manually, some of them being nearly impossible. I decided to create a full GUI application after having learned and made simple GUI apps such as [Text--](https://github.com/](https://github.com/Chajus-Saib/Text--). This application was my first experience with creating my own GUI widgets from scratch, having them interact with sizing, resizing, movement and rendering. 
+> In 2016, I got a bit tired with having to solve word searches manually, some of them being nearly impossible. I decided to create a full GUI application after having learned and made simple GUI apps such as [Text--](https://github.com/Chajus-Saib/Text--). This application was my first experience with creating my own GUI widgets from scratch, having them interact with sizing, resizing, movement and rendering. 
 
 > This was also my first experience with Optical Character Recognition(**OCR**) using the library **[Tesseract](https://github.com/tesseract-ocr/tesseract)**. I created a console version of my application first to test the OCR and refine the accuracy of it.
 
