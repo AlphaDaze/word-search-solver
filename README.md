@@ -8,20 +8,20 @@
 
 > Technologies Used: **C++, Qt, Tesseract**
 
-# word-search-solver     ![alt tag](https://github.com/ChajusSaib/word-search-solver/blob/master/images/icon.png?raw=true)
+# word-search-solver     ![alt tag](https://github.com/AlphaDaze/word-search-solver/blob/master/images/icon.png?raw=true)
 
 
 
 WordSearchSolver lets you feed it an image of a word search and finds words you wish to find!
-![alt tag](https://github.com/ChajusSaib/word-search-solver/blob/master/images/snapshot1.png?raw=true)
+![alt tag](https://github.com/AlphaDaze/word-search-solver/blob/master/images/snapshot1.png?raw=true)
 
-Copyright (c) 2016 ChajusSaib
+Copyright (c) 2016 AlphaDaze
 
 # License
 
 The MIT License (MIT)
 
-Copyright (c) 2016 ChajusSaib
+Copyright (c) 2016 AlphaDaze
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
